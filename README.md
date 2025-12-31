@@ -7,6 +7,12 @@ The analysis focuses on understanding sales performance, profitability, customer
 
 ---
 
+## Dashboard Preview
+
+![E-Commerce Sales & Profit Dashboard](images/dashboard_preview.png)
+
+*Interactive Excel dashboard summarizing revenue, profit, customer, product, and regional performance.*
+
 ## Business Questions
 
 The analysis aims to answer the following questions:
