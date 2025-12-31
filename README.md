@@ -119,14 +119,16 @@ All visuals respond dynamically to slicer selections.
 
 ---
 
-E-Commerce-Excel-Dashboard
-│── README.md
-│── Ecommerce_Sales_Dashboard.xlsx
-│── images
-│   └── dashboard_preview.png
-│── data
-│   └── ecommerce_data.csv
+## Project Structure
 
+- E-Commerce-Excel-Dashboard  
+  - README.md  
+  - Ecommerce_Sales_Dashboard.xlsx  
+  - images  
+    - dashboard_preview.png  
+  - data  
+    - ecommerce_data.csv
+    
 ---
 
 ## Conclusion
